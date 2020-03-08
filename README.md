@@ -3,4 +3,6 @@ Dies ist ein Programm für die DLRG (Deutsche Lebens Rettungs Gesellschaft), wel
 
 Benötigte pip-Bibliotheken installieren:
 
+```python
 pip install ferien docxtpl
+```
